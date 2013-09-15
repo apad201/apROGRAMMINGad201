@@ -6,6 +6,7 @@ import time
 GPIO.setmode(GPIO.BCM)
 
 class LED:
+    def
     
 
 GPIO_TRIGGER = 23
