@@ -1,6 +1,6 @@
 #!/usr/bin/python
+#This is an addition.
 
-# Import required Python libraries
 import time
 import RPi.GPIO as GPIO
 
