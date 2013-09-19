@@ -6,14 +6,29 @@ import time
 GPIO.setmode(GPIO.BCM)
 
 class LED:
-    def
     
+    def frontLight(self):
+        GPIO.output(GPIO_LEDA, True)
+        GPIO.output(GPIO_LEDB, True)
+        GPIO.output(GPIO_LEDC, True)
+    def frontLightOff(self):
+        GPIO.output(GPIO_LEDA, False)
+        GPIO.output(GPIO_LEDB, False)
+        GPIO.output(GPIO_LEDC, False)
+    def backlight(self):
+        GPIO.output(GPIO_BACKLIGHTA, True)
+        GPIO.output(GPIO_BACKLIGHTB, True)
+    def backlightOff(self):
+        GPIO.output(GPIO_BACKLIGHTA, False)
+        GPIO.output(GPIO_BACKLIGHTB, False)
 
 GPIO_TRIGGER = 23
 GPIO_ECHO = 24
 GPIO_LEDA = 4
 GPIO_LEDB = 17
 GPIO_LEDC = 22
+GPIO_BACKLIGHTA = #Enter Value Here
+GPIO_BACKLIGHTB = #Enter Value Here
 
 
 print "Starting Program"
