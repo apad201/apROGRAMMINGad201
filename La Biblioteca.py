@@ -29,7 +29,7 @@ class LED:
         self.frontstatus = False
         self.backstatus = False
     def __str__(self):
-        strmessage = "Front light status = " + self.frontstatus + ". Back light status = " + self.backstatus
+        strmessage = "Front light status = " + self.frontstatus + ". Back light status = " + self.backstatus + "."
         return strmessage
         
 
