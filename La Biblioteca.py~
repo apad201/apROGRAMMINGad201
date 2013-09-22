@@ -8,30 +8,19 @@ GPIO.setmode(GPIO.BCM)
 class LED:
     
     def frontLight(self):
-        self.frontstatus = True
         GPIO.output(GPIO_LEDA, True)
         GPIO.output(GPIO_LEDB, True)
         GPIO.output(GPIO_LEDC, True)
     def frontLightOff(self):
-        self.frontstatus = False
         GPIO.output(GPIO_LEDA, False)
         GPIO.output(GPIO_LEDB, False)
         GPIO.output(GPIO_LEDC, False)
     def backlight(self):
-        self.backstatus = True
         GPIO.output(GPIO_BACKLIGHTA, True)
         GPIO.output(GPIO_BACKLIGHTB, True)
     def backlightOff(self):
-        self.backstatus = False
         GPIO.output(GPIO_BACKLIGHTA, False)
         GPIO.output(GPIO_BACKLIGHTB, False)
-    def __init__(self):
-        self.frontstatus = False
-        self.backstatus = False
-    def __str__(self):
-        strmessage = "Front light status = " + self.frontstatus + ". Back light status = " + self.backstatus
-        return strmessage
-        
 
 GPIO_TRIGGER = 23
 GPIO_ECHO = 24
