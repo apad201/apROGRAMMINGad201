@@ -76,7 +76,7 @@ elapsed = stop-start
 # multiplied by the speed of sound (cm/s)
 distance = elapsed * 34000
 
-# That was the distance there and back so halve the value
+# That was the distance there and back so find half of the value
 distane = distance / 2
 
 print "Distance : %.1f" % distance
