@@ -28,6 +28,7 @@ class LED:
     def __init__(self):
         self.frontstatus = False
         self.backstatus = False
+        self.binstatus = False
     def __str__(self):
         strmessage = "Front light status = " + self.frontstatus + ". Back light status = " + self.backstatus + "."
         return strmessage
@@ -41,7 +42,7 @@ GPIO_LEDC = 22
 GPIO_BACKLIGHTA = #Enter Value Here
 GPIO_BACKLIGHTB = #Enter Value Here
 
-
+L = LED()
 print "Starting Program"
 print "Auto Mode On"
 
@@ -80,4 +81,12 @@ distane = distance / 2
 
 print "Distance : %.1f" % distance
 
+if distance < 20 and L.binstatus = False:
+	L.frontLightOff()
+	L.backLightOff()
+	print "Bin in."
+	L.binstatus = True
+elif distance =< 20:
+	L.frontLight()
+	L.backLight()
 
