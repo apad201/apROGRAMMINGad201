@@ -54,19 +54,20 @@ GPIO.setup(GPIO_LEDC, GPIO.OUT)
 
 # Allow module to settle
 time.sleep(0.5)
+while True:
 
-# Send 10us pulse to trigger
-GPIO.output(GPIO_TRIGGER, True)
-time.sleep(0.00001)
-GPIO.output(GPIO_TRIGGER, False)
-start = time.time()
-while GPIO.input(GPIO_ECHO) == 0:
+    # Send 10us pulse to trigger
+    GPIO.output(GPIO_TRIGGER, True)
+    time.sleep(0.00001)
+    GPIO.output(GPIO_TRIGGER, False)
     start = time.time()
+    while GPIO.input(GPIO_ECHO) == 0:
+        start = time.time()
     
     
     
-while GPIO.input(GPIO_ECHO) == 1:
-    stop = time.time()
+    while GPIO.input(GPIO_ECHO) == 1:
+        stop = time.time()
     
 # Calculate the pulse length   
 elapsed = stop-start
@@ -77,16 +78,18 @@ elapsed = stop-start
 distance = elapsed * 34000
 
 # That was the distance there and back so find half of the value
-distane = distance / 2
+distance = distance / 2
 
 print "Distance : %.1f" % distance
 
-if distance < 20 and L.binstatus = False:
+if distance < 10 and L.binstatus = False:
 	L.frontLightOff()
 	L.backLightOff()
 	print "Bin in."
 	L.binstatus = True
-elif distance =< 20:
+elif distance =< 10:
 	L.frontLight()
 	L.backLight()
+        print "BIN OUT!!!!!!!!!!!!!!!!!!!"
+        L.binstatus = False
 
