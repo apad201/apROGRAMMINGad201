@@ -69,25 +69,25 @@ while True:
     while GPIO.input(GPIO_ECHO) == 1:
         stop = time.time()
     
-# Calculate the pulse length   
-elapsed = stop-start
+    # Calculate the pulse length   
+    elapsed = stop-start
 
 
-# Distance pulse travelled in that time is time
-# multiplied by the speed of sound (cm/s)
-distance = elapsed * 34000
+    # Distance pulse travelled in that time is time
+    # multiplied by the speed of sound (cm/s)
+    distance = elapsed * 34000
 
-# That was the distance there and back so find half of the value
-distance = distance / 2
+    # That was the distance there and back so find half of the value
+    distance = distance / 2
 
-print "Distance : %.1f" % distance
+    print "Distance : %.1f" % distance
 
-if distance < 10 and L.binstatus = False:
+    if distance < 10 and L.binstatus = False:
 	L.frontLightOff()
 	L.backLightOff()
 	print "Bin in."
 	L.binstatus = True
-elif distance =< 10:
+    elif distance =< 10:
 	L.frontLight()
 	L.backLight()
         print "BIN OUT!!!!!!!!!!!!!!!!!!!"
