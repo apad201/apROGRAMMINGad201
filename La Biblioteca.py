@@ -6,7 +6,7 @@ import time
 GPIO.setmode(GPIO.BCM)
 
 class LED:
-    
+
     def frontLight(self):
         self.frontstatus = True
         GPIO.output(GPIO_LEDA, True)
