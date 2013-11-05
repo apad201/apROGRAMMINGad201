@@ -3,34 +3,35 @@
                                   [9]Web History | [10]Settings | [11]Sign in
 
                  [12]_____________________                                            
-Search           About 30,900,000 results                                             
+Search           About 25,500,000 results                                             
   * Web           1.   Weather for Durham, NC
-  * [13]Images        57�F | [19]°C       ‎Thu      ‎Fri      ‎Sat      ‎Sun
-  * [14]Videos        ‎Mostly Cloudy
-  * [15]News          ‎Wind: E at 0
-  * [16]Shopping      mph
-                      ‎Humidity: 96     ‎79� ‎70� ‎77� ‎55� ‎72� ‎52� ‎57� ‎41�
-[17]More
-                     ‎Detailed [20]The Weather   ‎- [21]Weather ‎- [22]AccuWeather
-Search Options       forecast: Channel              Underground
+  * [13]Images        41�F | [19]°C       ‎Mon      ‎Tue      ‎Wed      ‎Thu
+  * [14]Videos        ‎Scattered
+  * [15]News          Clouds
+  * [16]Shopping      ‎Wind: SW at 0
+                      mph
+[17]More              ‎Humidity: 77     ‎54� ‎37� ‎61� ‎43� ‎72� ‎57� ‎70� ‎41�
 
-  *               2. [23]Durham Weather Forecast and Conditions - weather.com
-                     www.weather.com/weather/today/Durham+NC+USNC0192:1:US -
-                     [24]Cached - [25]Similar
+Search Options       ‎Detailed [20]The Weather   ‎- [21]Weather ‎- [22]AccuWeather
+                     forecast: Channel              Underground
   * 
-                     Durham weather forecast and weather conditions. Today's and
-                     tonight's Durham
-                     weather forecast plus Doppler radar from weather.com.
-[18]Show search      ‎[26]Hourly Forecast - ‎[27]10 Day - ‎[28]5 Day -
-tools                ‎[29]Tomorrow
-                  3. [30]10 Day Weather Forecast for Durham - weather.com
-                     www.weather.com/weather/tenday/Durham+NC+USNC0192:1:US -
-                     [31]Cached - [32]Similar
+                  2. [23]10 Day Weather Forecast for 27705 - weather.com Durham, NC
+                     www.weather.com/weather/tenday/Durham+NC+27705 - [24]Cached -
+  *                  [25]Similar
 
                      Rain or shine? Be prepared with the most accurate 10 day
                      forecast, complete
-                     with highs, lows, chance of precipitation and more from
-                     weather.com.
+[18]Show search      with highs, lows, chance of precipitation and more from
+tools                weather.com.
+                  3. [26]Durham Weather Forecast and Conditions - weather.com
+                     www.weather.com/weather/today/Durham+NC+USNC0192:1:US -
+                     [27]Cached - [28]Similar
+
+                     Durham weather forecast and weather conditions. Today's and
+                     tonight's Durham
+                     weather forecast plus Doppler radar from weather.com.
+                     ‎[29]Hourly Forecast - ‎[30]10 Day Forecast - ‎[31]5 Day -
+                     ‎[32]Tomorrow
                   4. [33]Durham, NC Weather Forecast from Weather Underground
                      www.wunderground.com/US/NC/Durham.html - [34]Cached
 
@@ -53,55 +54,68 @@ tools                ‎[29]Tomorrow
                      Forecasts, radar and storm tracking for Raleigh, Durham,
                      Chapel Hill, Cary,
                      Fayetteville and Eastern North Carolina.
-                  7. [41]Durham Weather - AccuWeather Forecast for NC 27701
+                  7. [41]News for weather durham
+
+                     [42]Durham group collecting coats for needy families
+                     WNCN - 2 hours ago
+                     Welcome Baby Family Resource Center, based in Durham, helps
+                     pregnant women and their young children by providing baby
+                     clothes, formula, ...
+                     [43]Fire breaks out at Durham shopping center
+                     WNCN - 13 hours ago
+                     [44]Man shot multiple times at Durham apartment complex
+                     WNCN - 20 hours ago
+
+                  8. [45]Durham Weather - AccuWeather Forecast for NC 27701
                      www.accuweather.com/en/us/durham-nc/27701/weather.../329821 -
-                     [42]Cached - [43]Similar
+                     [46]Cached - [47]Similar
 
                      Get the Durham weather forecast. Access hourly, 10 day and 15
                      day forecasts
                      along with up to the minute reports and videos for Durham, NC
                      27701 from ...
-                  8. [44]BBC Weather - Durham
-                     www.bbc.co.uk/weather/2650628 - [45]Cached - [46]Similar
+                  9. [48]BBC Weather - Durham
+                     www.bbc.co.uk/weather/2650628 - [49]Cached - [50]Similar
 
                      Hourly weather for Durham with a 5 to 10 day forecast, giving
                      a look further
                      ahead.
-                  9. [47]Durham, NC 27722 Weather, Extended Forecast and
-                   Hour-by-Hour
-                     abclocal.go.com/wtvd/areaweather?cityId=27722 - [48]Cached -
-                     [49]Similar
+                 10. [51]Durham, NC 27722 Weather, Extended Forecast and
+                   Hour-by-Hour ...
+                     abclocal.go.com/wtvd/areaweather?cityId=27722 - [52]Cached -
+                     [53]Similar
 
                      Extended forecast and hour by hour forecast for Raleigh 27722.
-                 10. [50]Durham, North Carolina, U.S.A. weather and forecast - Time
+                 11. [54]7-Day Zone Forecast for Durham County - National Weather
+                   Service
+                     forecast.weather.gov/MapClick.php?zoneid=NCZ025 - [55]Cached -
+                     [56]Similar
+
+                     view Yesterday's Weather. Raleigh-Durham International Airport
+                     Lat: 35.88�N
+                     Lon: 78.78�W Elev: 416. Last Update on Nov 2, 6:51 am EDT ...
+                 12. [57]Durham, North Carolina, U.S.A. weather and forecast - Time
                    and Date
-                     www.timeanddate.com/weather/usa/durham - [51]Cached -
-                     [52]Similar
+                     www.timeanddate.com/weather/usa/durham - [58]Cached -
+                     [59]Similar
 
                      Current weather conditions and forecasted weather the coming 2
                      weeks for
                      Durham, North Carolina, U.S.A..
-                 11. [53]Durham Weather: 5 Day Forecast - Met Office
-                     www.metoffice.gov.uk/public/weather/forecast/durham -
-                     [54]Cached - [55]Similar
-
-                     Met Office 5 day weather forecast for Durham including weather
-                     warnings,
-                     temperature, rain, wind speed, cloud, pressure and UV index.
 
                  Searches related to weather durham
 
-                 [56]weather durham 10 day forecast [57]weather durham city
-                 [58]yahoo weather durham           [59]weather durham ca
-                 [60]weather durham nc hour by hour [61]weather durham ontario
-                 [62]weather durham nc radar        [63]weather durham ct
+                 [60]weather durham 10 day forecast [61]weather durham city
+                 [62]yahoo weather durham           [63]weather durham ca
+                 [64]weather durham nc hour by hour [65]weather durham ontario
+                 [66]weather durham nc radar        [67]weather durham ct
 
-                  1 [64]2 [65]3 [66]4 [67]5 [68]6 [69]7 [70]8 [71]9 [72]10 [73]Next
+                  1 [68]2 [69]3 [70]4 [71]5 [72]6 [73]7 [74]8 [75]9 [76]10 [77]Next
 
-                        [74]Advanced search[75]Search Help [76]Send feedback
+                        [78]Advanced search[79]Search Help [80]Send feedback
 
-                  [77]Google Home [78]Advertising Programs [79]Business Solutions
-                                [80]Privacy & Terms [81]About Google
+                  [81]Google Home [82]Advertising Programs [83]Business Solutions
+                                [84]Privacy & Terms [85]About Google
 
 References
 
@@ -117,72 +131,76 @@ References
    9. http://www.google.com/history/optout?hl=en
   10. http://www.google.com/preferences?hl=en
   11. https://accounts.google.com/ServiceLogin?hl=en&continue=http://www.google.com/search%3Fhl%3Den%26q%3Dweather%2Bdurham
-  13. http://www.google.com/search?q=weather+durham&hl=en&ie=UTF-8&prmd=ivns&source=lnms&tbm=isch&sa=X&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CAcQ_AUoAQ
-  14. http://www.google.com/search?q=weather+durham&hl=en&ie=UTF-8&prmd=ivns&source=lnms&tbm=vid&sa=X&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CAgQ_AUoAg
-  15. http://www.google.com/search?q=weather+durham&hl=en&ie=UTF-8&prmd=ivns&source=lnms&tbm=nws&sa=X&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CAkQ_AUoAw
-  16. http://www.google.com/search?q=weather+durham&hl=en&ie=UTF-8&prmd=ivns&source=lnms&tbm=shop&sa=X&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CAoQ_AUoBA
-  17. http://www.google.com/search?hl=en&q=weather+durham&sa=X&prmdo=1&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CA8Q_gUoCQ
-  18. http://www.google.com/search?q=weather+durham&hl=en&ie=UTF-8&prmd=ivns&tbo=1&sa=X&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CBMQwxE
-  19. http://www.google.com/setprefs?fheit=0&sig=0_IIRAtyEyDeZ18XLoT89WFX0BG54=&prev=http://www.google.com/search%3Fhl%3Den%26q%3Dweather%2Bdurham&sa=X&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CBsQwwQoATAA
-  20. http://www.google.com/url?q=http://www.weather.com/weather/today/35.994033,-78.898619%3Fpar%3Dgoogleonebox&sa=U&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CCYQrAUoADAA&usg=AFQjCNHz6c0_DN01Xs_1iVgsED5j4omUsg
-  21. http://www.google.com/url?q=http://www.wunderground.com/cgi-bin/findweather/getForecast%3Fquery%3D35.994033,-78.898619%26cm_ven%3Dgoogleonebox&sa=U&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CCcQrAUoATAA&usg=AFQjCNGJdId1ZHkdYMpN9ZZ0SaOQKzGTbg
-  22. http://www.google.com/url?q=http://googleonex.accuweather.com/en/35.99,-78.90/weather-forecast-geocode%3Fpartner%3DGoogleonex&sa=U&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CCgQrAUoAjAA&usg=AFQjCNGyrmmVgwkTsc88ebtt0WP51tEZTw
-  23. http://www.google.com/url?q=http://www.weather.com/weather/today/Durham%2BNC%2BUSNC0192:1:US&sa=U&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CCoQFjAB&usg=AFQjCNHjzsffvACVm8VK9XVq82v8Oh-F5w
-  24. http://www.google.com/url?q=http://webcache.googleusercontent.com/search%3Fhl%3Den%26q%3Dcache:88uGs6LotN0J:http://www.weather.com/weather/today/Durham%252BNC%252BUSNC0192:1:US%252Bweather%2Bdurham%26ct%3Dclnk&sa=U&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CCsQIDAB&usg=AFQjCNEkapRkK9ty3nRUcT5GMsftEZHavQ
-  25. http://www.google.com/search?hl=en&ie=UTF-8&q=related:www.weather.com/weather/today/Durham%2BNC%2BUSNC0192:1:US+weather+durham&tbo=1&sa=X&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CCwQHzAB
-  26. http://www.google.com/url?q=http://www.weather.com/weather/hourbyhour/graph/Durham%2BNC%2BUSNC0192:1:US&sa=U&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CC4Q0gIoADAB&usg=AFQjCNEbWwLdoCYK9L7TwCmbsZRyLXr72g
-  27. http://www.google.com/url?q=http://www.weather.com/weather/tenday/Durham%2BNC%2BUSNC0192:1:US&sa=U&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CC8Q0gIoATAB&usg=AFQjCNHOzBrWGFGYK3lRvO4jIFDAEikHIQ
-  28. http://www.google.com/url?q=http://www.weather.com/weather/5-day/Durham%2BNC%2BUSNC0192:1:US&sa=U&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CDAQ0gIoAjAB&usg=AFQjCNFVRTNyndWqNPLbyrKcNrXmYxMtfw
-  29. http://www.google.com/url?q=http://www.weather.com/weather/tomorrow/Durham%2BNC%2BUSNC0192:1:US&sa=U&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CDEQ0gIoAzAB&usg=AFQjCNG9MAE58K3DMgoX6BvHYfYsGOAV_w
-  30. http://www.google.com/url?q=http://www.weather.com/weather/tenday/Durham%2BNC%2BUSNC0192:1:US&sa=U&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CDMQFjAC&usg=AFQjCNHOzBrWGFGYK3lRvO4jIFDAEikHIQ
-  31. http://www.google.com/url?q=http://webcache.googleusercontent.com/search%3Fhl%3Den%26q%3Dcache:4pr_rsdpdxAJ:http://www.weather.com/weather/tenday/Durham%252BNC%252BUSNC0192:1:US%252Bweather%2Bdurham%26ct%3Dclnk&sa=U&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CDQQIDAC&usg=AFQjCNHKy6GytJrQEZfKA4X-ucxkXWTx8g
-  32. http://www.google.com/search?hl=en&ie=UTF-8&q=related:www.weather.com/weather/tenday/Durham%2BNC%2BUSNC0192:1:US+weather+durham&tbo=1&sa=X&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CDUQHzAC
-  33. http://www.google.com/url?q=http://www.wunderground.com/US/NC/Durham.html&sa=U&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CDcQFjAD&usg=AFQjCNH0t1d6cTXG8PPUlCWSTjrvYDzTWA
-  34. http://www.google.com/url?q=http://webcache.googleusercontent.com/search%3Fhl%3Den%26q%3Dcache:UnrSH9MrjJcJ:http://www.wunderground.com/US/NC/Durham.html%252Bweather%2Bdurham%26ct%3Dclnk&sa=U&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CDgQIDAD&usg=AFQjCNFdAPDrekgvhfSSLyA4qSMqvJSRXA
-  35. http://www.google.com/url?q=http://www.wunderground.com/weather-forecast/27701&sa=U&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CDoQFjAE&usg=AFQjCNHRBXUDyWnWG3g9fruSKuCHFXDmjw
-  36. http://www.google.com/url?q=http://webcache.googleusercontent.com/search%3Fhl%3Den%26q%3Dcache:YxTNXkPqDxMJ:http://www.wunderground.com/weather-forecast/27701%252Bweather%2Bdurham%26ct%3Dclnk&sa=U&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CDsQIDAE&usg=AFQjCNHF11v14IfovlMdIU05zkWi_iSlDQ
-  37. http://www.google.com/search?hl=en&ie=UTF-8&q=related:www.wunderground.com/weather-forecast/27701+weather+durham&tbo=1&sa=X&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CDwQHzAE
-  38. http://www.google.com/url?q=http://www.wral.com/weather/&sa=U&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CD4QFjAF&usg=AFQjCNH1FsyfXFvyEwkchXSajkRupKqmLg
-  39. http://www.google.com/url?q=http://webcache.googleusercontent.com/search%3Fhl%3Den%26q%3Dcache:pIxhJyF8zpYJ:http://www.wral.com/weather/%252Bweather%2Bdurham%26ct%3Dclnk&sa=U&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CD8QIDAF&usg=AFQjCNEj3mG-xFE0FPnwopLwXBlEoFLbRQ
-  40. http://www.google.com/search?hl=en&ie=UTF-8&q=related:www.wral.com/weather/+weather+durham&tbo=1&sa=X&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CEAQHzAF
-  41. http://www.google.com/url?q=http://www.accuweather.com/en/us/durham-nc/27701/weather-forecast/329821&sa=U&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CEIQFjAG&usg=AFQjCNFvRFWNGW7h2qOyZ5nctkXhgzieZQ
-  42. http://www.google.com/url?q=http://webcache.googleusercontent.com/search%3Fhl%3Den%26q%3Dcache:WczEop6lQ4oJ:http://www.accuweather.com/en/us/durham-nc/27701/weather-forecast/329821%252Bweather%2Bdurham%26ct%3Dclnk&sa=U&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CEMQIDAG&usg=AFQjCNF1JNmA4pkcvlT7a6IVXdEHe2dLVg
-  43. http://www.google.com/search?hl=en&ie=UTF-8&q=related:www.accuweather.com/en/us/durham-nc/27701/weather-forecast/329821+weather+durham&tbo=1&sa=X&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CEQQHzAG
-  44. http://www.google.com/url?q=http://www.bbc.co.uk/weather/2650628&sa=U&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CEYQFjAH&usg=AFQjCNFroOhlKRAbZEQpMhxRsjEP34siyw
-  45. http://www.google.com/url?q=http://webcache.googleusercontent.com/search%3Fhl%3Den%26q%3Dcache:qHGkH1HFB6AJ:http://www.bbc.co.uk/weather/2650628%252Bweather%2Bdurham%26ct%3Dclnk&sa=U&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CEcQIDAH&usg=AFQjCNGqW8C_Cxp5ENrMZFbUxJrKHL9Weg
-  46. http://www.google.com/search?hl=en&ie=UTF-8&q=related:www.bbc.co.uk/weather/2650628+weather+durham&tbo=1&sa=X&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CEgQHzAH
-  47. http://www.google.com/url?q=http://abclocal.go.com/wtvd/areaweather%3FcityId%3D27722&sa=U&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CEoQFjAI&usg=AFQjCNFXgP3rvJoGfmt6XjlOUtt53TCNGw
-  48. http://www.google.com/url?q=http://webcache.googleusercontent.com/search%3Fhl%3Den%26q%3Dcache:s2eS83MMWiYJ:http://abclocal.go.com/wtvd/areaweather%253FcityId%253D27722%252Bweather%2Bdurham%26ct%3Dclnk&sa=U&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CEsQIDAI&usg=AFQjCNG6u-BRo6HO-0Tac7oaQCS-VMXSVA
-  49. http://www.google.com/search?hl=en&ie=UTF-8&q=related:abclocal.go.com/wtvd/areaweather%3FcityId%3D27722+weather+durham&tbo=1&sa=X&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CEwQHzAI
-  50. http://www.google.com/url?q=http://www.timeanddate.com/weather/usa/durham&sa=U&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CE4QFjAJ&usg=AFQjCNF2wB4If1jk6mY9r_FqOfqDP3B61A
-  51. http://www.google.com/url?q=http://webcache.googleusercontent.com/search%3Fhl%3Den%26q%3Dcache:3JxXrObEKYkJ:http://www.timeanddate.com/weather/usa/durham%252Bweather%2Bdurham%26ct%3Dclnk&sa=U&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CE8QIDAJ&usg=AFQjCNFp67HRbhlIOAvLX8INVIrD7s_TUQ
-  52. http://www.google.com/search?hl=en&ie=UTF-8&q=related:www.timeanddate.com/weather/usa/durham+weather+durham&tbo=1&sa=X&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CFAQHzAJ
-  53. http://www.google.com/url?q=http://www.metoffice.gov.uk/public/weather/forecast/durham&sa=U&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CFIQFjAK&usg=AFQjCNHiArQOPAvoz3ijmvo7OJinoMkyyQ
-  54. http://www.google.com/url?q=http://webcache.googleusercontent.com/search%3Fhl%3Den%26q%3Dcache:XUi9lzcyeSoJ:http://www.metoffice.gov.uk/public/weather/forecast/durham%252Bweather%2Bdurham%26ct%3Dclnk&sa=U&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CFMQIDAK&usg=AFQjCNFnjBfSR_pZZHELFs2K9S_ezPk8wA
-  55. http://www.google.com/search?hl=en&ie=UTF-8&q=related:www.metoffice.gov.uk/public/weather/forecast/durham+weather+durham&tbo=1&sa=X&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CFQQHzAK
-  56. http://www.google.com/search?hl=en&ie=UTF-8&q=weather+durham+10+day+forecast&revid=582182552&sa=X&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CFcQ1QIoAA
-  57. http://www.google.com/search?hl=en&ie=UTF-8&q=weather+durham+city&revid=582182552&sa=X&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CFgQ1QIoAQ
-  58. http://www.google.com/search?hl=en&ie=UTF-8&q=yahoo+weather+durham&revid=582182552&sa=X&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CFkQ1QIoAg
-  59. http://www.google.com/search?hl=en&ie=UTF-8&q=weather+durham+ca&revid=582182552&sa=X&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CFoQ1QIoAw
-  60. http://www.google.com/search?hl=en&ie=UTF-8&q=weather+durham+nc+hour+by+hour&revid=582182552&sa=X&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CFsQ1QIoBA
-  61. http://www.google.com/search?hl=en&ie=UTF-8&q=weather+durham+ontario&revid=582182552&sa=X&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CFwQ1QIoBQ
-  62. http://www.google.com/search?hl=en&ie=UTF-8&q=weather+durham+nc+radar&revid=582182552&sa=X&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CF0Q1QIoBg
-  63. http://www.google.com/search?hl=en&ie=UTF-8&q=weather+durham+ct&revid=582182552&sa=X&ei=-DdyUvCVF8HJsQSOloDwDA&ved=0CF4Q1QIoBw
-  64. http://www.google.com/search?q=weather+durham&hl=en&ie=UTF-8&prmd=ivns&ei=-DdyUvCVF8HJsQSOloDwDA&start=10&sa=N
-  65. http://www.google.com/search?q=weather+durham&hl=en&ie=UTF-8&prmd=ivns&ei=-DdyUvCVF8HJsQSOloDwDA&start=20&sa=N
-  66. http://www.google.com/search?q=weather+durham&hl=en&ie=UTF-8&prmd=ivns&ei=-DdyUvCVF8HJsQSOloDwDA&start=30&sa=N
-  67. http://www.google.com/search?q=weather+durham&hl=en&ie=UTF-8&prmd=ivns&ei=-DdyUvCVF8HJsQSOloDwDA&start=40&sa=N
-  68. http://www.google.com/search?q=weather+durham&hl=en&ie=UTF-8&prmd=ivns&ei=-DdyUvCVF8HJsQSOloDwDA&start=50&sa=N
-  69. http://www.google.com/search?q=weather+durham&hl=en&ie=UTF-8&prmd=ivns&ei=-DdyUvCVF8HJsQSOloDwDA&start=60&sa=N
-  70. http://www.google.com/search?q=weather+durham&hl=en&ie=UTF-8&prmd=ivns&ei=-DdyUvCVF8HJsQSOloDwDA&start=70&sa=N
-  71. http://www.google.com/search?q=weather+durham&hl=en&ie=UTF-8&prmd=ivns&ei=-DdyUvCVF8HJsQSOloDwDA&start=80&sa=N
-  72. http://www.google.com/search?q=weather+durham&hl=en&ie=UTF-8&prmd=ivns&ei=-DdyUvCVF8HJsQSOloDwDA&start=90&sa=N
-  73. http://www.google.com/search?q=weather+durham&hl=en&ie=UTF-8&prmd=ivns&ei=-DdyUvCVF8HJsQSOloDwDA&start=10&sa=N
-  74. http://www.google.com/advanced_search?q=weather+durham&hl=en&ie=UTF-8&prmd=ivns
-  75. http://www.google.com/support/websearch/bin/answer.py?answer=134479&hl=en
-  76. http://www.google.com/tools/feedback/survey/html?productId=196&query=weather+durham&hl=en
-  77. http://www.google.com/
-  78. http://www.google.com/intl/en/ads
-  79. http://www.google.com/services
-  80. http://www.google.com/intl/en/policies/
-  81. http://www.google.com/intl/en/about.html
+  13. http://www.google.com/search?q=weather+durham&hl=en&ie=UTF-8&prmd=ivns&source=lnms&tbm=isch&sa=X&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CAcQ_AUoAQ
+  14. http://www.google.com/search?q=weather+durham&hl=en&ie=UTF-8&prmd=ivns&source=lnms&tbm=vid&sa=X&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CAgQ_AUoAg
+  15. http://www.google.com/search?q=weather+durham&hl=en&ie=UTF-8&prmd=ivns&source=lnms&tbm=nws&sa=X&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CAkQ_AUoAw
+  16. http://www.google.com/search?q=weather+durham&hl=en&ie=UTF-8&prmd=ivns&source=lnms&tbm=shop&sa=X&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CAoQ_AUoBA
+  17. http://www.google.com/search?hl=en&q=weather+durham&sa=X&prmdo=1&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CA8Q_gUoCQ
+  18. http://www.google.com/search?q=weather+durham&hl=en&ie=UTF-8&prmd=ivns&tbo=1&sa=X&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CBMQwxE
+  19. http://www.google.com/setprefs?fheit=0&sig=0_IIRAtyEyDeZ18XLoT89WFX0BG54=&prev=http://www.google.com/search%3Fhl%3Den%26q%3Dweather%2Bdurham&sa=X&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CBsQwwQoATAA
+  20. http://www.google.com/url?q=http://www.weather.com/weather/today/35.994033,-78.898619%3Fpar%3Dgoogleonebox&sa=U&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CCYQrAUoADAA&usg=AFQjCNHLDN5UankqYBCt-_8aUPGvUBbAlw
+  21. http://www.google.com/url?q=http://www.wunderground.com/cgi-bin/findweather/getForecast%3Fquery%3D35.994033,-78.898619%26cm_ven%3Dgoogleonebox&sa=U&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CCcQrAUoATAA&usg=AFQjCNHS95gFWuzqy0NBK23LBEsg0MNHoQ
+  22. http://www.google.com/url?q=http://googleonex.accuweather.com/en/35.99,-78.90/weather-forecast-geocode%3Fpartner%3DGoogleonex&sa=U&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CCgQrAUoAjAA&usg=AFQjCNFfN7a2QyMO1d5Y4hK9PYceL9L3QA
+  23. http://www.google.com/url?q=http://www.weather.com/weather/tenday/Durham%2BNC%2B27705&sa=U&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CCoQFjAB&usg=AFQjCNHM5Ir-_61sbCYWe5kwveASFC7qqA
+  24. http://www.google.com/url?q=http://webcache.googleusercontent.com/search%3Fhl%3Den%26q%3Dcache:SNnyqwPBKMsJ:http://www.weather.com/weather/tenday/Durham%252BNC%252B27705%252Bweather%2Bdurham%26ct%3Dclnk&sa=U&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CCsQIDAB&usg=AFQjCNFn8Wec1woAzI8sEKMewz0Ho1MUng
+  25. http://www.google.com/search?hl=en&ie=UTF-8&q=related:www.weather.com/weather/tenday/Durham%2BNC%2B27705+weather+durham&tbo=1&sa=X&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CCwQHzAB
+  26. http://www.google.com/url?q=http://www.weather.com/weather/today/Durham%2BNC%2BUSNC0192:1:US&sa=U&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CC4QFjAC&usg=AFQjCNFZqE8mkvw8FVuzAFZb8JFGZqqJJw
+  27. http://www.google.com/url?q=http://webcache.googleusercontent.com/search%3Fhl%3Den%26q%3Dcache:88uGs6LotN0J:http://www.weather.com/weather/today/Durham%252BNC%252BUSNC0192:1:US%252Bweather%2Bdurham%26ct%3Dclnk&sa=U&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CC8QIDAC&usg=AFQjCNEmu324v1kl6gz6Pz1VHfzpFqeVyQ
+  28. http://www.google.com/search?hl=en&ie=UTF-8&q=related:www.weather.com/weather/today/Durham%2BNC%2BUSNC0192:1:US+weather+durham&tbo=1&sa=X&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CDAQHzAC
+  29. http://www.google.com/url?q=http://www.weather.com/weather/hourbyhour/graph/Durham%2BNC%2BUSNC0192:1:US&sa=U&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CDIQ0gIoADAC&usg=AFQjCNGwSYZP8uyohbSkwN_Dhg3HBBkAEg
+  30. http://www.google.com/url?q=http://www.weather.com/weather/tenday/Durham%2BNC%2BUSNC0192:1:US&sa=U&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CDMQ0gIoATAC&usg=AFQjCNHoBzSn3lebAC4JfMymeVp-HFEYlA
+  31. http://www.google.com/url?q=http://www.weather.com/weather/5-day/Durham%2BNC%2BUSNC0192:1:US&sa=U&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CDQQ0gIoAjAC&usg=AFQjCNEORgPS6mwPKL1XHuck4PJDW9rR5w
+  32. http://www.google.com/url?q=http://www.weather.com/weather/tomorrow/Durham%2BNC%2BUSNC0192:1:US&sa=U&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CDUQ0gIoAzAC&usg=AFQjCNFXhx5WCNeHkRJ9fzcyA56GoWqjCQ
+  33. http://www.google.com/url?q=http://www.wunderground.com/US/NC/Durham.html&sa=U&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CDcQFjAD&usg=AFQjCNGZf7di6WdNFtMYMWNBNlysJ9kZTw
+  34. http://www.google.com/url?q=http://webcache.googleusercontent.com/search%3Fhl%3Den%26q%3Dcache:UnrSH9MrjJcJ:http://www.wunderground.com/US/NC/Durham.html%252Bweather%2Bdurham%26ct%3Dclnk&sa=U&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CDgQIDAD&usg=AFQjCNFct5l2j6HhmPwmWqHwQGWgmqfyhA
+  35. http://www.google.com/url?q=http://www.wunderground.com/weather-forecast/27701&sa=U&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CDoQFjAE&usg=AFQjCNFH5Kzv_MzXUulu9RaOb659o3CKbA
+  36. http://www.google.com/url?q=http://webcache.googleusercontent.com/search%3Fhl%3Den%26q%3Dcache:YxTNXkPqDxMJ:http://www.wunderground.com/weather-forecast/27701%252Bweather%2Bdurham%26ct%3Dclnk&sa=U&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CDsQIDAE&usg=AFQjCNEzl0LDeLqFw7KP1XJCXK2DUXf4qg
+  37. http://www.google.com/search?hl=en&ie=UTF-8&q=related:www.wunderground.com/weather-forecast/27701+weather+durham&tbo=1&sa=X&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CDwQHzAE
+  38. http://www.google.com/url?q=http://www.wral.com/weather/&sa=U&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CD4QFjAF&usg=AFQjCNHMUePjSMQnRRDoECrtifzOF8PxPw
+  39. http://www.google.com/url?q=http://webcache.googleusercontent.com/search%3Fhl%3Den%26q%3Dcache:pIxhJyF8zpYJ:http://www.wral.com/weather/%252Bweather%2Bdurham%26ct%3Dclnk&sa=U&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CD8QIDAF&usg=AFQjCNF4Ac2NpOIBs8Ej39RMpxO7W0f2RA
+  40. http://www.google.com/search?hl=en&ie=UTF-8&q=related:www.wral.com/weather/+weather+durham&tbo=1&sa=X&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CEAQHzAF
+  41. http://www.google.com/search?q=weather+durham&hl=en&ie=UTF-8&prmd=ivns&source=univ&tbm=nws&tbo=u&sa=X&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CEIQqAI
+  42. http://www.google.com/url?q=http://www.wncn.com/story/23873985/durham-group-collecting-coats-for-needy-families&sa=U&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CEQQqQIwBg&usg=AFQjCNF8U-N-bZLL07TK_D2EUCi-e8FQ6w
+  43. http://www.google.com/url?q=http://www.wncn.com/story/23866805/fire-breaks-out-at-durham-shopping-center&sa=U&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CEYQqQIwBw&usg=AFQjCNGANu6M2hyIoIVb4TVswSl4XVQ-tQ
+  44. http://www.google.com/url?q=http://www.wncn.com/story/23865386/man-shot-multiple-times-at-durham-apartment-complex&sa=U&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CEgQqQIwCA&usg=AFQjCNETk_XjXJcNeLaEUI8aecNR6f0OYA
+  45. http://www.google.com/url?q=http://www.accuweather.com/en/us/durham-nc/27701/weather-forecast/329821&sa=U&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CEoQFjAJ&usg=AFQjCNGO9ebNj17lfkEJtcpRkGQJNpLo9w
+  46. http://www.google.com/url?q=http://webcache.googleusercontent.com/search%3Fhl%3Den%26q%3Dcache:WczEop6lQ4oJ:http://www.accuweather.com/en/us/durham-nc/27701/weather-forecast/329821%252Bweather%2Bdurham%26ct%3Dclnk&sa=U&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CEsQIDAJ&usg=AFQjCNH_ep21zyOMd3MLt_q5HrtKrv5fQg
+  47. http://www.google.com/search?hl=en&ie=UTF-8&q=related:www.accuweather.com/en/us/durham-nc/27701/weather-forecast/329821+weather+durham&tbo=1&sa=X&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CEwQHzAJ
+  48. http://www.google.com/url?q=http://www.bbc.co.uk/weather/2650628&sa=U&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CE4QFjAK&usg=AFQjCNFdeAENk8a38ZLn-Zqktut_PZDuGg
+  49. http://www.google.com/url?q=http://webcache.googleusercontent.com/search%3Fhl%3Den%26q%3Dcache:qHGkH1HFB6AJ:http://www.bbc.co.uk/weather/2650628%252Bweather%2Bdurham%26ct%3Dclnk&sa=U&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CE8QIDAK&usg=AFQjCNFyFx-8iwZiNfyTd6zbn1hm3wJF4Q
+  50. http://www.google.com/search?hl=en&ie=UTF-8&q=related:www.bbc.co.uk/weather/2650628+weather+durham&tbo=1&sa=X&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CFAQHzAK
+  51. http://www.google.com/url?q=http://abclocal.go.com/wtvd/areaweather%3FcityId%3D27722&sa=U&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CFIQFjAL&usg=AFQjCNFfbGCD5w_9OJx1mMAUX8ArvpequA
+  52. http://www.google.com/url?q=http://webcache.googleusercontent.com/search%3Fhl%3Den%26q%3Dcache:s2eS83MMWiYJ:http://abclocal.go.com/wtvd/areaweather%253FcityId%253D27722%252Bweather%2Bdurham%26ct%3Dclnk&sa=U&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CFMQIDAL&usg=AFQjCNE5DFy8HfFPY8RJ_KTS5o6wH_27PQ
+  53. http://www.google.com/search?hl=en&ie=UTF-8&q=related:abclocal.go.com/wtvd/areaweather%3FcityId%3D27722+weather+durham&tbo=1&sa=X&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CFQQHzAL
+  54. http://www.google.com/url?q=http://forecast.weather.gov/MapClick.php%3Fzoneid%3DNCZ025&sa=U&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CFYQFjAM&usg=AFQjCNEMGDY3xjUsFjkMcxJe7_-1C5vn6A
+  55. http://www.google.com/url?q=http://webcache.googleusercontent.com/search%3Fhl%3Den%26q%3Dcache:YI2002AhxC8J:http://forecast.weather.gov/MapClick.php%253Fzoneid%253DNCZ025%252Bweather%2Bdurham%26ct%3Dclnk&sa=U&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CFcQIDAM&usg=AFQjCNHmblSOOPoM7Wecn3qGaMD-u5NhAQ
+  56. http://www.google.com/search?hl=en&ie=UTF-8&q=related:forecast.weather.gov/MapClick.php%3Fzoneid%3DNCZ025+weather+durham&tbo=1&sa=X&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CFgQHzAM
+  57. http://www.google.com/url?q=http://www.timeanddate.com/weather/usa/durham&sa=U&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CFoQFjAN&usg=AFQjCNFaKs30gMoAG5q7wl3BU7l0euyoNQ
+  58. http://www.google.com/url?q=http://webcache.googleusercontent.com/search%3Fhl%3Den%26q%3Dcache:3JxXrObEKYkJ:http://www.timeanddate.com/weather/usa/durham%252Bweather%2Bdurham%26ct%3Dclnk&sa=U&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CFsQIDAN&usg=AFQjCNFpCFcLLzgH6ZzFkJfRQTNSHhP2fQ
+  59. http://www.google.com/search?hl=en&ie=UTF-8&q=related:www.timeanddate.com/weather/usa/durham+weather+durham&tbo=1&sa=X&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CFwQHzAN
+  60. http://www.google.com/search?hl=en&ie=UTF-8&q=weather+durham+10+day+forecast&revid=1183563049&sa=X&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CF8Q1QIoAA
+  61. http://www.google.com/search?hl=en&ie=UTF-8&q=weather+durham+city&revid=1183563049&sa=X&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CGAQ1QIoAQ
+  62. http://www.google.com/search?hl=en&ie=UTF-8&q=yahoo+weather+durham&revid=1183563049&sa=X&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CGEQ1QIoAg
+  63. http://www.google.com/search?hl=en&ie=UTF-8&q=weather+durham+ca&revid=1183563049&sa=X&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CGIQ1QIoAw
+  64. http://www.google.com/search?hl=en&ie=UTF-8&q=weather+durham+nc+hour+by+hour&revid=1183563049&sa=X&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CGMQ1QIoBA
+  65. http://www.google.com/search?hl=en&ie=UTF-8&q=weather+durham+ontario&revid=1183563049&sa=X&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CGQQ1QIoBQ
+  66. http://www.google.com/search?hl=en&ie=UTF-8&q=weather+durham+nc+radar&revid=1183563049&sa=X&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CGUQ1QIoBg
+  67. http://www.google.com/search?hl=en&ie=UTF-8&q=weather+durham+ct&revid=1183563049&sa=X&ei=-Ul4Up3bJM7dsASv_oHQBA&ved=0CGYQ1QIoBw
+  68. http://www.google.com/search?q=weather+durham&hl=en&ie=UTF-8&prmd=ivns&ei=-Ul4Up3bJM7dsASv_oHQBA&start=10&sa=N
+  69. http://www.google.com/search?q=weather+durham&hl=en&ie=UTF-8&prmd=ivns&ei=-Ul4Up3bJM7dsASv_oHQBA&start=20&sa=N
+  70. http://www.google.com/search?q=weather+durham&hl=en&ie=UTF-8&prmd=ivns&ei=-Ul4Up3bJM7dsASv_oHQBA&start=30&sa=N
+  71. http://www.google.com/search?q=weather+durham&hl=en&ie=UTF-8&prmd=ivns&ei=-Ul4Up3bJM7dsASv_oHQBA&start=40&sa=N
+  72. http://www.google.com/search?q=weather+durham&hl=en&ie=UTF-8&prmd=ivns&ei=-Ul4Up3bJM7dsASv_oHQBA&start=50&sa=N
+  73. http://www.google.com/search?q=weather+durham&hl=en&ie=UTF-8&prmd=ivns&ei=-Ul4Up3bJM7dsASv_oHQBA&start=60&sa=N
+  74. http://www.google.com/search?q=weather+durham&hl=en&ie=UTF-8&prmd=ivns&ei=-Ul4Up3bJM7dsASv_oHQBA&start=70&sa=N
+  75. http://www.google.com/search?q=weather+durham&hl=en&ie=UTF-8&prmd=ivns&ei=-Ul4Up3bJM7dsASv_oHQBA&start=80&sa=N
+  76. http://www.google.com/search?q=weather+durham&hl=en&ie=UTF-8&prmd=ivns&ei=-Ul4Up3bJM7dsASv_oHQBA&start=90&sa=N
+  77. http://www.google.com/search?q=weather+durham&hl=en&ie=UTF-8&prmd=ivns&ei=-Ul4Up3bJM7dsASv_oHQBA&start=10&sa=N
+  78. http://www.google.com/advanced_search?q=weather+durham&hl=en&ie=UTF-8&prmd=ivns
+  79. http://www.google.com/support/websearch/bin/answer.py?answer=134479&hl=en
+  80. http://www.google.com/tools/feedback/survey/html?productId=196&query=weather+durham&hl=en
+  81. http://www.google.com/
+  82. http://www.google.com/intl/en/ads
+  83. http://www.google.com/services
+  84. http://www.google.com/intl/en/policies/
+  85. http://www.google.com/intl/en/about.html

@@ -3,7 +3,7 @@ import re
 import time
 from datetime import datetime, timedelta
 
-
+    
     
 
 while True:
@@ -11,7 +11,7 @@ while True:
     subprocess.call(['./durhamWeather2.sh'])
     time.sleep(2)
     readFile = open('weatherDump.txt', 'r')
-    writeFile = open('TempOut3.csv', 'a')
+    writeFile = open('TempOut4.csv', 'a')
     for line in readFile:
         match = re.search('Images\s+(-?\d+)', line)
         if match is not None:
