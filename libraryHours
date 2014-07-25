@@ -1,0 +1,14 @@
+from urllib2 import urlopen
+import re
+
+i = 0
+url = 'https://raw.githubusercontent.com/cndreisbach/itlo/master/data/libraries.yml'
+response = urlopen(url)
+final = response.read()
+
+data = re.search(final, "\s+name: Southwest Regional Library\n\s+hours:\n\s+Monday: ['(\d+);, '(\d+)']\n\s+Tuesday: ['(\d+);, '(\d+)']\n\s+Wednesday: ['(\d+);, '(\d+)']\n\s+Thursday: ['(\d+);, '(\d+)']\n\s+Friday: ['(\d+);, '(\d+)']\n\s+Saturday: ['(\d+);, '(\d+)']\n\s+Sunday: ['(\d+);, '(\d+)']\n\s+")
+while i<13:
+    print data.group(i)
+    i += 1
+
+
